@@ -1,2 +1,0 @@
-[console_scripts]
-montreal-performing-arts-calendar = montreal_performing_arts_calendar:main
