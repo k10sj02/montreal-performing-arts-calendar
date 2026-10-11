@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<meta name="description" content="An independent, automatically refreshed calendar of performing arts in Montréal.">
+<title>Montréal Independent Performing Arts Calendar</title>
+<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:20px}a{color:#a6192e}input{width:100%;box-sizing:border-box;font-size:16px;padding:8px}@media(max-width:600px){body{margin:20px auto}}</style>
+<h1>Montréal Independent Performing Arts Calendar</h1>
+<p>An automatically refreshed calendar of independent theatre, contemporary dance, performance, and interdisciplinary live art in Tiohtià:ke/Montréal.</p>
+<p><a id="subscription" href="montreal-performing-arts.ics">Subscribe in Apple Calendar</a> · <a href="montreal-performing-arts.ics">Download calendar</a></p>
+<p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
+<input id="url" aria-label="Calendar subscription URL" readonly>
+<p><a href="status.json">Last refresh status</a> · <a href="https://www.lachapelle.org/fr">La Chapelle</a> · <a href="https://tangentedanse.ca/">Tangente</a> · <a href="https://agoradanse.com/">Agora de la danse</a> · <a href="https://m-a-i.qc.ca/">MAI</a> · <a href="https://github.com/k10sj02/montreal-performing-arts-calendar">Source code</a></p>
+<p>Refreshes every six hours; your calendar app controls how quickly changes appear. Check the original listing before attending.</p>
+<script>const u=new URL('montreal-performing-arts.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
+</html>
