@@ -1,13 +1,12 @@
 {
-  "generated": "2026-10-23T01:23:27.463546-04:00",
-  "count": 67,
-  "cancelled": 8,
+  "generated": "2026-10-23T08:07:56.618052-04:00",
+  "count": 66,
+  "cancelled": 9,
   "sources": {
     "la-chapelle": 37,
     "tangente": 10,
+    "agora": 11,
     "mai": 7
   },
-  "errors": {
-    "agora": "Expecting value: line 1 column 1 (char 0)"
-  }
+  "errors": {}
 }
