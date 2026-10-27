@@ -1,6 +1,45 @@
 {
-  "updated": "2026-10-27T14:21:00.436463-04:00",
+  "updated": "2026-10-27T18:37:47.800748-04:00",
   "events": {
+    "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "perdon-2026-11-11T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-11T20:00:00-05:00",
+      "end": "2026-11-11T21:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e14eb27dd13244af84743534b01a@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "perdon-2026-11-12T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T21:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "bb00806f9df04496619e9144d96b@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "perdon-2026-11-13T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-13T20:00:00-05:00",
+      "end": "2026-11-13T21:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "8bf0f8af17a07880ecca75647a01@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-18T19:30:00-05:00",
@@ -66,84 +105,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "96f057951d7bd99610167f6da87c@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "noli-2027-02-15T19:30:00-05:00",
-      "title": "NOLI",
-      "start": "2027-02-15T19:30:00-05:00",
-      "end": "2027-02-15T19:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
-      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f25dba5207cb249b8c1d0c4bba92@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "noli-2027-02-16T19:30:00-05:00",
-      "title": "NOLI",
-      "start": "2027-02-16T19:30:00-05:00",
-      "end": "2027-02-16T19:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
-      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "99304b903f50afd1acec6aae57c3@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "noli-2027-02-18T19:30:00-05:00",
-      "title": "NOLI",
-      "start": "2027-02-18T19:30:00-05:00",
-      "end": "2027-02-18T19:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
-      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "65c2ebe3a7f95f76bc0906f2af9d@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "noli-2027-02-19T19:30:00-05:00",
-      "title": "NOLI",
-      "start": "2027-02-19T19:30:00-05:00",
-      "end": "2027-02-19T19:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
-      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d87450e1b59529f48b5fe8f85d2e@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "noli-2027-02-20T19:30:00-05:00",
-      "title": "NOLI",
-      "start": "2027-02-20T19:30:00-05:00",
-      "end": "2027-02-20T19:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
-      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "be6764fec48494711b563c0ec90b@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "noli-2027-02-23T19:30:00-05:00",
-      "title": "NOLI",
-      "start": "2027-02-23T19:30:00-05:00",
-      "end": "2027-02-23T19:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
-      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "4879490998eecc276fef6301e979@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "kit-2026-12-14T19:30:00-05:00",
@@ -193,58 +154,6 @@
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
       "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
       "description": "Lilia Mestre - KiT! à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5d81b65bd5634bd47a45481139eb@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-05T19:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-05T19:00:00-05:00",
-      "end": "2026-11-05T19:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3391b6d48bd3089e99b8c2370dfb@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-06T19:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-06T19:00:00-05:00",
-      "end": "2026-11-06T19:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "03562bf772d4b9a78d26848873bc@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-07T11:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-07T11:00:00-05:00",
-      "end": "2026-11-07T11:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4d296d5387ddcdd5e9d256739226@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-07T14:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-07T14:00:00-05:00",
-      "end": "2026-11-07T14:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -378,42 +287,133 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
+    "96f057951d7bd99610167f6da87c@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "perdon-2026-11-11T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-11T20:00:00-05:00",
-      "end": "2026-11-11T21:30:00-05:00",
+      "source_id": "noli-2027-02-15T19:30:00-05:00",
+      "title": "NOLI",
+      "start": "2027-02-15T19:30:00-05:00",
+      "end": "2027-02-15T19:30:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
+      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "e14eb27dd13244af84743534b01a@montreal-performing-arts": {
+    "f25dba5207cb249b8c1d0c4bba92@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "perdon-2026-11-12T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-12T20:00:00-05:00",
-      "end": "2026-11-12T21:30:00-05:00",
+      "source_id": "noli-2027-02-16T19:30:00-05:00",
+      "title": "NOLI",
+      "start": "2027-02-16T19:30:00-05:00",
+      "end": "2027-02-16T19:30:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
+      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "bb00806f9df04496619e9144d96b@montreal-performing-arts": {
+    "99304b903f50afd1acec6aae57c3@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "perdon-2026-11-13T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": "2026-11-13T21:30:00-05:00",
+      "source_id": "noli-2027-02-18T19:30:00-05:00",
+      "title": "NOLI",
+      "start": "2027-02-18T19:30:00-05:00",
+      "end": "2027-02-18T19:30:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
+      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "65c2ebe3a7f95f76bc0906f2af9d@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "noli-2027-02-19T19:30:00-05:00",
+      "title": "NOLI",
+      "start": "2027-02-19T19:30:00-05:00",
+      "end": "2027-02-19T19:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
+      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "d87450e1b59529f48b5fe8f85d2e@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "noli-2027-02-20T19:30:00-05:00",
+      "title": "NOLI",
+      "start": "2027-02-20T19:30:00-05:00",
+      "end": "2027-02-20T19:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
+      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "be6764fec48494711b563c0ec90b@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "noli-2027-02-23T19:30:00-05:00",
+      "title": "NOLI",
+      "start": "2027-02-23T19:30:00-05:00",
+      "end": "2027-02-23T19:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamond-ou-infinitheatre-talisman",
+      "description": "Virginie Daigle , Alexis Diamond - NOLI à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5d81b65bd5634bd47a45481139eb@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-05T19:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-05T19:00:00-05:00",
+      "end": "2026-11-05T19:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3391b6d48bd3089e99b8c2370dfb@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-06T19:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-06T19:00:00-05:00",
+      "end": "2026-11-06T19:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "03562bf772d4b9a78d26848873bc@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-07T11:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T11:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4d296d5387ddcdd5e9d256739226@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-07T14:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-07T14:00:00-05:00",
+      "end": "2026-11-07T14:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -469,84 +469,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ce68e085fe6a3bc879f744f39fa4@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-28T19:29:00-05:00",
-      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
-      "start": "2026-11-28T19:29:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c058e348b3c07034a27431840313@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-30T19:00:00-05:00",
-      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
-      "start": "2026-11-30T19:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "43a2b2dde5398332d394ffd651f2@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-12-01T19:00:00-05:00",
-      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
-      "start": "2026-12-01T19:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9b3e9be97f3b97a431d56068a6bf@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-10-31T19:00:00-04:00",
-      "title": "Marcus Merasty + Noel Transcendance Vezina",
-      "start": "2026-10-31T19:00:00-04:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f2a51a043fcb7974773c40670c63@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-01T16:00:00-05:00",
-      "title": "Marcus Merasty + Noel Transcendance Vezina",
-      "start": "2026-11-01T16:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9291a04de2c93c28b231fc132782@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-02T19:25:00-05:00",
-      "title": "Marcus Merasty + Noel Transcendance Vezina",
-      "start": "2026-11-02T19:25:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "8d926227ca2c8c788ed83143398b@montreal-performing-arts": {
       "source": "tangente",
       "source_id": "leo-hit-coupal-hanna-sybille-muller-2026-11-05T19:00:00-05:00",
@@ -595,6 +517,84 @@
       "venue": "Tangente — Édifice Wilder",
       "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
       "url": "https://tangentedanse.ca/evenement/leo-hit-coupal-hanna-sybille-muller/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9b3e9be97f3b97a431d56068a6bf@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-10-31T19:00:00-04:00",
+      "title": "Marcus Merasty + Noel Transcendance Vezina",
+      "start": "2026-10-31T19:00:00-04:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f2a51a043fcb7974773c40670c63@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-01T16:00:00-05:00",
+      "title": "Marcus Merasty + Noel Transcendance Vezina",
+      "start": "2026-11-01T16:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9291a04de2c93c28b231fc132782@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-02T19:25:00-05:00",
+      "title": "Marcus Merasty + Noel Transcendance Vezina",
+      "start": "2026-11-02T19:25:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ce68e085fe6a3bc879f744f39fa4@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-28T19:29:00-05:00",
+      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
+      "start": "2026-11-28T19:29:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c058e348b3c07034a27431840313@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-30T19:00:00-05:00",
+      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
+      "start": "2026-11-30T19:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "43a2b2dde5398332d394ffd651f2@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-12-01T19:00:00-05:00",
+      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
+      "start": "2026-12-01T19:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
       "description": "Contemporary dance performance.",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -844,7 +844,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "ac42f394da88c9cff2558647a3e3@montreal-performing-arts": {
       "source": "tangente",
@@ -857,7 +857,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "ebd230a08d5a4837591446ba54ac@montreal-performing-arts": {
       "source": "tangente",
@@ -870,7 +870,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "1d92a54dd67f43ff49c9012e9717@montreal-performing-arts": {
       "source": "tangente",
@@ -883,7 +883,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "0673dc668336c3bae8149144c28b@montreal-performing-arts": {
       "source": "tangente",
@@ -896,7 +896,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "3b79c45f900cf1012e7107775158@montreal-performing-arts": {
       "source": "tangente",
@@ -909,7 +909,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "56a18096e5cbc2b33f1749676b06@montreal-performing-arts": {
       "source": "tangente",
@@ -922,7 +922,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "6ddb15565bf61e8bbd4b24ee2834@montreal-performing-arts": {
       "source": "tangente",
@@ -935,7 +935,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     }
   }
 }
