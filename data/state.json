@@ -1,6 +1,175 @@
 {
-  "updated": "2026-10-28T02:18:09.661099-04:00",
+  "updated": "2026-10-28T09:32:54.538209-04:00",
   "events": {
+    "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "perdon-2026-11-11T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-11T20:00:00-05:00",
+      "end": "2026-11-11T21:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e14eb27dd13244af84743534b01a@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "perdon-2026-11-12T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T21:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "bb00806f9df04496619e9144d96b@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "perdon-2026-11-13T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-13T20:00:00-05:00",
+      "end": "2026-11-13T21:30:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3a9d59ececac019edddc34d82395@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-01-27T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-01-27T19:30:00-05:00",
+      "end": "2027-01-27T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f9d3f2f1d4efd9a25af0a5784313@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-01-28T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-01-28T19:30:00-05:00",
+      "end": "2027-01-28T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "17a3f8a8dc2dd5adaa307dded2da@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-01-29T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-01-29T19:30:00-05:00",
+      "end": "2027-01-29T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "451b3ef689d70ac9de779543b0d7@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-01-30T15:00:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-01-30T15:00:00-05:00",
+      "end": "2027-01-30T16:15:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b432d7cb2ba6abc3dfa9a95a09bf@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-01-30T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-01-30T19:30:00-05:00",
+      "end": "2027-01-30T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4d2dec82c067b152cc64db5464f4@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-02-02T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-02-02T19:30:00-05:00",
+      "end": "2027-02-02T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "759421c8736f0ef30d29b1feba98@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-02-03T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-02-03T19:30:00-05:00",
+      "end": "2027-02-03T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3e9a8f3180d27e87e4c19d72b06e@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-02-04T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-02-04T19:30:00-05:00",
+      "end": "2027-02-04T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7bf18dca640c8fb0428b4aa5e5de@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-02-05T19:30:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-02-05T19:30:00-05:00",
+      "end": "2027-02-05T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9f54b691d78b8907f889fe85f418@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "akuteu-2027-02-06T15:00:00-05:00",
+      "title": "Akuteu",
+      "start": "2027-02-06T15:00:00-05:00",
+      "end": "2027-02-06T16:15:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
+      "description": "Soleil Launière - Akuteu à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "ceb72139ee3ba29abd9c5b29e7ff@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "about-cruising-lignes-de-dsir--2027-01-11T19:30:00-05:00",
@@ -248,136 +417,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "3a9d59ececac019edddc34d82395@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-01-27T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-01-27T19:30:00-05:00",
-      "end": "2027-01-27T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f9d3f2f1d4efd9a25af0a5784313@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-01-28T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-01-28T19:30:00-05:00",
-      "end": "2027-01-28T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "17a3f8a8dc2dd5adaa307dded2da@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-01-29T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-01-29T19:30:00-05:00",
-      "end": "2027-01-29T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "451b3ef689d70ac9de779543b0d7@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-01-30T15:00:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-01-30T15:00:00-05:00",
-      "end": "2027-01-30T16:15:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "b432d7cb2ba6abc3dfa9a95a09bf@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-01-30T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-01-30T19:30:00-05:00",
-      "end": "2027-01-30T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4d2dec82c067b152cc64db5464f4@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-02-02T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-02-02T19:30:00-05:00",
-      "end": "2027-02-02T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "759421c8736f0ef30d29b1feba98@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-02-03T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-02-03T19:30:00-05:00",
-      "end": "2027-02-03T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3e9a8f3180d27e87e4c19d72b06e@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-02-04T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-02-04T19:30:00-05:00",
-      "end": "2027-02-04T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7bf18dca640c8fb0428b4aa5e5de@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-02-05T19:30:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-02-05T19:30:00-05:00",
-      "end": "2027-02-05T20:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9f54b691d78b8907f889fe85f418@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "akuteu-2027-02-06T15:00:00-05:00",
-      "title": "Akuteu",
-      "start": "2027-02-06T15:00:00-05:00",
-      "end": "2027-02-06T16:15:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/soleil-launiere",
-      "description": "Soleil Launière - Akuteu à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "8bf0f8af17a07880ecca75647a01@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-18T19:30:00-05:00",
@@ -440,45 +479,6 @@
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
       "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
       "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "perdon-2026-11-11T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-11T20:00:00-05:00",
-      "end": "2026-11-11T21:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e14eb27dd13244af84743534b01a@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "perdon-2026-11-12T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-12T20:00:00-05:00",
-      "end": "2026-11-12T21:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "bb00806f9df04496619e9144d96b@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "perdon-2026-11-13T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": "2026-11-13T21:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -870,7 +870,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "ac42f394da88c9cff2558647a3e3@montreal-performing-arts": {
       "source": "tangente",
@@ -883,7 +883,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "ebd230a08d5a4837591446ba54ac@montreal-performing-arts": {
       "source": "tangente",
@@ -896,7 +896,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "1d92a54dd67f43ff49c9012e9717@montreal-performing-arts": {
       "source": "tangente",
@@ -909,7 +909,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "0673dc668336c3bae8149144c28b@montreal-performing-arts": {
       "source": "tangente",
@@ -922,7 +922,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "3b79c45f900cf1012e7107775158@montreal-performing-arts": {
       "source": "tangente",
@@ -935,7 +935,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "56a18096e5cbc2b33f1749676b06@montreal-performing-arts": {
       "source": "tangente",
@@ -948,7 +948,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "6ddb15565bf61e8bbd4b24ee2834@montreal-performing-arts": {
       "source": "tangente",
@@ -961,7 +961,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     }
   }
 }
