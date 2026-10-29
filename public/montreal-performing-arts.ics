@@ -9,7 +9,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 SUMMARY:Marcus Merasty + Noel Transcendance Vezina
 DTSTART;TZID=America/Toronto:20261031T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:9b3e9be97f3b97a431d56068a6bf@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marcus Merasty + Noel Transcendance Vezina
 DTSTART;TZID=America/Toronto:20261101T160000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:f2a51a043fcb7974773c40670c63@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marcus Merasty + Noel Transcendance Vezina
 DTSTART;TZID=America/Toronto:20261102T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:9291a04de2c93c28b231fc132782@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COIL
 DTSTART;TZID=America/Toronto:20261104T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:26b4f9051886a7c5a39c69cf52f9@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Après le déluge
 DTSTART;TZID=America/Toronto:20261105T190000
 DTEND;TZID=America/Toronto:20261105T194500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:5d81b65bd5634bd47a45481139eb@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Julia B. Laperrière\, Sébastien Provencher - Après le délu
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COIL
 DTSTART;TZID=America/Toronto:20261105T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:05cd980801f05b5c2d99fd7b6393@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hanna Sybille Müller + Léo Hit Coupal-Lafleur
 DTSTART;TZID=America/Toronto:20261105T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:8d926227ca2c8c788ed83143398b@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Après le déluge
 DTSTART;TZID=America/Toronto:20261106T190000
 DTEND;TZID=America/Toronto:20261106T194500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:3391b6d48bd3089e99b8c2370dfb@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Julia B. Laperrière\, Sébastien Provencher - Après le délu
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COIL
 DTSTART;TZID=America/Toronto:20261106T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:b6e607996a490df3ef70d0891fc3@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hanna Sybille Müller + Léo Hit Coupal-Lafleur
 DTSTART;TZID=America/Toronto:20261106T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:ea5e592849dd3659b390806cc86a@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Après le déluge
 DTSTART;TZID=America/Toronto:20261107T110000
 DTEND;TZID=America/Toronto:20261107T114500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:03562bf772d4b9a78d26848873bc@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Julia B. Laperrière\, Sébastien Provencher - Après le délu
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Après le déluge
 DTSTART;TZID=America/Toronto:20261107T140000
 DTEND;TZID=America/Toronto:20261107T144500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:4d296d5387ddcdd5e9d256739226@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Julia B. Laperrière\, Sébastien Provencher - Après le délu
@@ -191,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COIL
 DTSTART;TZID=America/Toronto:20261107T160000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:f900df9d3d520e355268aa42124a@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -204,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hanna Sybille Müller + Léo Hit Coupal-Lafleur
 DTSTART;TZID=America/Toronto:20261107T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:5884cc183aef9558dcd696ae27d9@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -219,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hanna Sybille Müller + Léo Hit Coupal-Lafleur
 DTSTART;TZID=America/Toronto:20261108T160000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:92b9d76b6be2a23e7bd79cdb5f28@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -234,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:rosa
 DTSTART;TZID=America/Toronto:20261111T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:fc74a93a02e895884faf22b2ff91@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:PERDÓN
 DTSTART;TZID=America/Toronto:20261111T200000
 DTEND;TZID=America/Toronto:20261111T213000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Losinformalls - PERDÓN à La Chapelle\nOriginal listing: http
@@ -263,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:rosa
 DTSTART;TZID=America/Toronto:20261112T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:bcf0f92cf10cf2508958f44e7863@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:PERDÓN
 DTSTART;TZID=America/Toronto:20261112T200000
 DTEND;TZID=America/Toronto:20261112T213000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:e14eb27dd13244af84743534b01a@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Losinformalls - PERDÓN à La Chapelle\nOriginal listing: http
@@ -292,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:rosa
 DTSTART;TZID=America/Toronto:20261113T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:b84f854a53c34b0a90048d585f21@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:PERDÓN
 DTSTART;TZID=America/Toronto:20261113T200000
 DTEND;TZID=America/Toronto:20261113T213000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:bb00806f9df04496619e9144d96b@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Losinformalls - PERDÓN à La Chapelle\nOriginal listing: http
@@ -321,7 +321,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:rosa
 DTSTART;TZID=America/Toronto:20261114T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:fceca94de3595817a23ac66a4c62@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Zamân ou on a le même temps qu’on avait 
 DTSTART;TZID=America/Toronto:20261118T193000
 DTEND;TZID=America/Toronto:20261118T205000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:8bf0f8af17a07880ecca75647a01@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Mani Soleymanlou\, Valaire - Zamân ou on a le même temps qu
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Zamân ou on a le même temps qu’on avait 
 DTSTART;TZID=America/Toronto:20261119T193000
 DTEND;TZID=America/Toronto:20261119T205000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:9ce513c3144fb02869b871e8cfe7@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Mani Soleymanlou\, Valaire - Zamân ou on a le même temps qu
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:Zamân ou on a le même temps qu’on avait 
 DTSTART;TZID=America/Toronto:20261120T193000
 DTEND;TZID=America/Toronto:20261120T205000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:2d293b9c56f0ad6beaf7ca278f11@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Mani Soleymanlou\, Valaire - Zamân ou on a le même temps qu
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Zamân ou on a le même temps qu’on avait 
 DTSTART;TZID=America/Toronto:20261121T160000
 DTEND;TZID=America/Toronto:20261121T172000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:4d9e9ebf883a8d95f52591b9b305@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Mani Soleymanlou\, Valaire - Zamân ou on a le même temps qu
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Zamân ou on a le même temps qu’on avait 
 DTSTART;TZID=America/Toronto:20261121T193000
 DTEND;TZID=America/Toronto:20261121T205000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:7c3c88f2776910c01d0a6e32c337@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Mani Soleymanlou\, Valaire - Zamân ou on a le même temps qu
@@ -420,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piece of Mind Collective + Maude Lecours & Gabrielle Marquis
 DTSTART;TZID=America/Toronto:20261128T192900
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:ce68e085fe6a3bc879f744f39fa4@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piece of Mind Collective + Maude Lecours & Gabrielle Marquis
 DTSTART;TZID=America/Toronto:20261130T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:c058e348b3c07034a27431840313@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -452,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piece of Mind Collective + Maude Lecours & Gabrielle Marquis
 DTSTART;TZID=America/Toronto:20261201T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:43a2b2dde5398332d394ffd651f2@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -468,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dégustation chorégraphique
 DTSTART;TZID=America/Toronto:20261204T180000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:f61bb52af61af8b212edc6d9b084@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -481,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:exposition pop-up voisin·es de milton-parc
 DTSTART;TZID=America/Toronto:20261205T120000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:246bb2768f3ff2026c721ee0bde8@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -495,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L’affront des chimères (ados + adultes)
 DTSTART;TZID=America/Toronto:20261205T140000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:1262364fdd5fef8e7fc86fada504@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -508,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:exposition pop-up voisin·es de milton-parc
 DTSTART;TZID=America/Toronto:20261206T120000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:0bb31a2dbe78dc2a05a7eda94625@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -522,7 +522,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:exposition pop-up voisin·es de milton-parc
 DTSTART;TZID=America/Toronto:20261207T120000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:84ebe0a95f589e493580f198aec3@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Intercultural and interdisciplinary performance.\nOriginal lis
@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alexandre Morin + Jessica Muszynski
 DTSTART;TZID=America/Toronto:20261209T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:14dadbe5e49b0394d4cfcd48039d@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -550,7 +550,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alexandre Morin + Jessica Muszynski
 DTSTART;TZID=America/Toronto:20261210T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:ac42f394da88c9cff2558647a3e3@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -564,7 +564,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alexandre Morin + Jessica Muszynski
 DTSTART;TZID=America/Toronto:20261211T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:ebd230a08d5a4837591446ba54ac@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -578,7 +578,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alexandre Morin + Jessica Muszynski
 DTSTART;TZID=America/Toronto:20261212T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:1d92a54dd67f43ff49c9012e9717@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:KiT!
 DTSTART;TZID=America/Toronto:20261214T193000
 DTEND;TZID=America/Toronto:20261214T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:4879490998eecc276fef6301e979@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Lilia Mestre - KiT! à La Chapelle\nOriginal listing: https://
@@ -608,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:KiT!
 DTSTART;TZID=America/Toronto:20261215T193000
 DTEND;TZID=America/Toronto:20261215T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:ab7f7d193d04da2b81d02e354d7a@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Lilia Mestre - KiT! à La Chapelle\nOriginal listing: https://
@@ -622,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pierre-Marc Ouellette + Jacques Poulin-Denis + Medhi Walerski
 DTSTART;TZID=America/Toronto:20261216T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:0673dc668336c3bae8149144c28b@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -638,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pierre-Marc Ouellette + Jacques Poulin-Denis + Medhi Walerski
 DTSTART;TZID=America/Toronto:20261217T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:3b79c45f900cf1012e7107775158@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -655,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:KiT!
 DTSTART;TZID=America/Toronto:20261217T193000
 DTEND;TZID=America/Toronto:20261217T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:d0d6f2ca22a42b84a0a22705aab6@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Lilia Mestre - KiT! à La Chapelle\nOriginal listing: https://
@@ -669,7 +669,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pierre-Marc Ouellette + Jacques Poulin-Denis + Medhi Walerski
 DTSTART;TZID=America/Toronto:20261218T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:56a18096e5cbc2b33f1749676b06@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -686,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:KiT!
 DTSTART;TZID=America/Toronto:20261218T193000
 DTEND;TZID=America/Toronto:20261218T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:822bca54b6adca244462cb57beb0@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Lilia Mestre - KiT! à La Chapelle\nOriginal listing: https://
@@ -700,7 +700,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pierre-Marc Ouellette + Jacques Poulin-Denis + Medhi Walerski
 DTSTART;TZID=America/Toronto:20261219T192500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:6ddb15565bf61e8bbd4b24ee2834@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://tan
@@ -717,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:About cruising : Lignes de désir 
 DTSTART;TZID=America/Toronto:20270111T193000
 DTEND;TZID=America/Toronto:20270111T203500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:ceb72139ee3ba29abd9c5b29e7ff@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Thomas Lapointe  - About cruising : Lignes de désir  à La 
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 SUMMARY:About cruising : Lignes de désir 
 DTSTART;TZID=America/Toronto:20270112T193000
 DTEND;TZID=America/Toronto:20270112T203500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:e83edcc2a0fcd1319be8784cc4d2@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Thomas Lapointe  - About cruising : Lignes de désir  à La 
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:About cruising : Lignes de désir 
 DTSTART;TZID=America/Toronto:20270114T193000
 DTEND;TZID=America/Toronto:20270114T203500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:60758a3e718d2562a0dd9ee4617d@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Thomas Lapointe  - About cruising : Lignes de désir  à La 
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:About cruising : Lignes de désir 
 DTSTART;TZID=America/Toronto:20270115T193000
 DTEND;TZID=America/Toronto:20270115T203500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:3e604f4cce6a7d1bff0233bb10fa@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Thomas Lapointe  - About cruising : Lignes de désir  à La 
@@ -781,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270127T193000
 DTEND;TZID=America/Toronto:20270127T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:3a9d59ececac019edddc34d82395@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270128T193000
 DTEND;TZID=America/Toronto:20270128T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:f9d3f2f1d4efd9a25af0a5784313@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -811,7 +811,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270129T193000
 DTEND;TZID=America/Toronto:20270129T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:17a3f8a8dc2dd5adaa307dded2da@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270130T150000
 DTEND;TZID=America/Toronto:20270130T161500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:451b3ef689d70ac9de779543b0d7@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270130T193000
 DTEND;TZID=America/Toronto:20270130T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:b432d7cb2ba6abc3dfa9a95a09bf@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -855,7 +855,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Euphoric Thresholds COMPLET
 DTSTART;TZID=America/Toronto:20270202T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:d1b5cfa280fea25dec9d8049a579@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -869,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270202T193000
 DTEND;TZID=America/Toronto:20270202T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:4d2dec82c067b152cc64db5464f4@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -883,7 +883,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Euphoric Thresholds COMPLET
 DTSTART;TZID=America/Toronto:20270203T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:df33bbdcd585ee315f6a235603b9@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270203T193000
 DTEND;TZID=America/Toronto:20270203T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:759421c8736f0ef30d29b1feba98@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -911,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Euphoric Thresholds COMPLET
 DTSTART;TZID=America/Toronto:20270204T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:71c502a69065cb67c6106981b128@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -925,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270204T193000
 DTEND;TZID=America/Toronto:20270204T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:3e9a8f3180d27e87e4c19d72b06e@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -939,7 +939,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Euphoric Thresholds COMPLET
 DTSTART;TZID=America/Toronto:20270205T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:3d25a1e0140a1dd2b7664cf5fef9@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270205T193000
 DTEND;TZID=America/Toronto:20270205T204500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:7bf18dca640c8fb0428b4aa5e5de@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -968,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:Akuteu
 DTSTART;TZID=America/Toronto:20270206T150000
 DTEND;TZID=America/Toronto:20270206T161500
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:9f54b691d78b8907f889fe85f418@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Soleil Launière - Akuteu à La Chapelle\nOriginal listing: ht
@@ -982,7 +982,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Euphoric Thresholds COMPLET
 DTSTART;TZID=America/Toronto:20270206T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:52f9c36428a46285531a1bb7cc37@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -996,7 +996,7 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270215T193000
 DTEND;TZID=America/Toronto:20270215T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:96f057951d7bd99610167f6da87c@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
@@ -1013,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270216T193000
 DTEND;TZID=America/Toronto:20270216T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:f25dba5207cb249b8c1d0c4bba92@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
@@ -1030,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270218T193000
 DTEND;TZID=America/Toronto:20270218T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:99304b903f50afd1acec6aae57c3@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
@@ -1047,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270219T193000
 DTEND;TZID=America/Toronto:20270219T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:65c2ebe3a7f95f76bc0906f2af9d@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
@@ -1064,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270220T193000
 DTEND;TZID=America/Toronto:20270220T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:d87450e1b59529f48b5fe8f85d2e@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
@@ -1081,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270223T193000
 DTEND;TZID=America/Toronto:20270223T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:be6764fec48494711b563c0ec90b@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
@@ -1097,7 +1097,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LABOUR
 DTSTART;TZID=America/Toronto:20270224T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:e6985c20256ef18dd24f60f376a2@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -1110,7 +1110,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LABOUR
 DTSTART;TZID=America/Toronto:20270225T190000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:742f9933a6c5847ecc6fe57b0370@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
@@ -1124,8 +1124,38 @@ BEGIN:VEVENT
 SUMMARY:NOLI
 DTSTART;TZID=America/Toronto:20270225T193000
 DTEND;TZID=America/Toronto:20270225T193000
-DTSTAMP:20261028T225202Z
+DTSTAMP:20261029T062846Z
 UID:0347ab65852a435e976bfb5540c8@montreal-performing-arts
+CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
+DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
+ nal listing: https://lachapelle.tuxedobillet.com/main/virginie-daigle-alex
+ is-diamond-ou-infinitheatre-talisman
+LOCATION:La Chapelle Scènes Contemporaines\, 3700 rue Saint-Dominique\, M
+ ontréal\, QC H2X 2X8
+STATUS:CONFIRMED
+URL:https://lachapelle.tuxedobillet.com/main/virginie-daigle-alexis-diamon
+ d-ou-infinitheatre-talisman
+X-MONTREAL-PERFORMING-ARTS-SOURCE:la-chapelle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABOUR
+DTSTART;TZID=America/Toronto:20270226T190000
+DTSTAMP:20261029T062846Z
+UID:509115ea7fedda004a4dc1af3afa@montreal-performing-arts
+CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
+DESCRIPTION:Contemporary dance performance.\nOriginal listing: https://ago
+ radanse.com/evenement/labour-2027/
+LOCATION:Agora de la danse\, 1435 rue De Bleury\, Montréal\, QC H3A 2H7
+STATUS:CONFIRMED
+URL:https://agoradanse.com/evenement/labour-2027/
+X-MONTREAL-PERFORMING-ARTS-SOURCE:agora
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOLI
+DTSTART;TZID=America/Toronto:20270226T193000
+DTEND;TZID=America/Toronto:20270226T193000
+DTSTAMP:20261029T062846Z
+UID:e0b2be24895599a0da5159c062eb@montreal-performing-arts
 CATEGORIES:Performing Arts\,Theatre\,Dance\,Performance
 DESCRIPTION:Virginie Daigle \, Alexis Diamond - NOLI à La Chapelle\nOrigi
  nal listing: https://lachapelle.tuxedobillet.com/main/virginie-daigle-alex
