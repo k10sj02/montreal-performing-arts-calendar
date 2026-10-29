@@ -1,97 +1,6 @@
 {
-  "updated": "2026-10-29T02:28:46.554376-04:00",
+  "updated": "2026-10-29T09:43:49.885465-04:00",
   "events": {
-    "ceb72139ee3ba29abd9c5b29e7ff@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-11T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-11T19:30:00-05:00",
-      "end": "2027-01-11T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e83edcc2a0fcd1319be8784cc4d2@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-12T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-12T19:30:00-05:00",
-      "end": "2027-01-12T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "60758a3e718d2562a0dd9ee4617d@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-14T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-14T19:30:00-05:00",
-      "end": "2027-01-14T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3e604f4cce6a7d1bff0233bb10fa@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-15T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-15T19:30:00-05:00",
-      "end": "2027-01-15T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "perdon-2026-11-11T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-11T20:00:00-05:00",
-      "end": "2026-11-11T21:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e14eb27dd13244af84743534b01a@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "perdon-2026-11-12T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-12T20:00:00-05:00",
-      "end": "2026-11-12T21:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "bb00806f9df04496619e9144d96b@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "perdon-2026-11-13T20:00:00-05:00",
-      "title": "PERDÓN",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": "2026-11-13T21:30:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
-      "description": "Losinformalls - PERDÓN à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "8bf0f8af17a07880ecca75647a01@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-18T19:30:00-05:00",
@@ -157,55 +66,42 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5d81b65bd5634bd47a45481139eb@montreal-performing-arts": {
+    "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-05T19:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-05T19:00:00-05:00",
-      "end": "2026-11-05T19:45:00-05:00",
+      "source_id": "perdon-2026-11-11T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-11T20:00:00-05:00",
+      "end": "2026-11-11T21:30:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "3391b6d48bd3089e99b8c2370dfb@montreal-performing-arts": {
+    "e14eb27dd13244af84743534b01a@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-06T19:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-06T19:00:00-05:00",
-      "end": "2026-11-06T19:45:00-05:00",
+      "source_id": "perdon-2026-11-12T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T21:30:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "03562bf772d4b9a78d26848873bc@montreal-performing-arts": {
+    "bb00806f9df04496619e9144d96b@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-07T11:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-07T11:00:00-05:00",
-      "end": "2026-11-07T11:45:00-05:00",
+      "source_id": "perdon-2026-11-13T20:00:00-05:00",
+      "title": "PERDÓN",
+      "start": "2026-11-13T20:00:00-05:00",
+      "end": "2026-11-13T21:30:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4d296d5387ddcdd5e9d256739226@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-07T14:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-07T14:00:00-05:00",
-      "end": "2026-11-07T14:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/losinformalls",
+      "description": "Losinformalls - PERDÓN à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -495,42 +391,107 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "9b3e9be97f3b97a431d56068a6bf@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-10-31T19:00:00-04:00",
-      "title": "Marcus Merasty + Noel Transcendance Vezina",
-      "start": "2026-10-31T19:00:00-04:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
-      "description": "Contemporary dance performance.",
+    "ceb72139ee3ba29abd9c5b29e7ff@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-11T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-11T19:30:00-05:00",
+      "end": "2027-01-11T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "f2a51a043fcb7974773c40670c63@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-01T16:00:00-05:00",
-      "title": "Marcus Merasty + Noel Transcendance Vezina",
-      "start": "2026-11-01T16:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
-      "description": "Contemporary dance performance.",
+    "e83edcc2a0fcd1319be8784cc4d2@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-12T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-12T19:30:00-05:00",
+      "end": "2027-01-12T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "9291a04de2c93c28b231fc132782@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-02T19:25:00-05:00",
-      "title": "Marcus Merasty + Noel Transcendance Vezina",
-      "start": "2026-11-02T19:25:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
-      "description": "Contemporary dance performance.",
+    "60758a3e718d2562a0dd9ee4617d@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-14T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-14T19:30:00-05:00",
+      "end": "2027-01-14T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3e604f4cce6a7d1bff0233bb10fa@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-15T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-15T19:30:00-05:00",
+      "end": "2027-01-15T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5d81b65bd5634bd47a45481139eb@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-05T19:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-05T19:00:00-05:00",
+      "end": "2026-11-05T19:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3391b6d48bd3089e99b8c2370dfb@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-06T19:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-06T19:00:00-05:00",
+      "end": "2026-11-06T19:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "03562bf772d4b9a78d26848873bc@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-07T11:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T11:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4d296d5387ddcdd5e9d256739226@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-07T14:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-07T14:00:00-05:00",
+      "end": "2026-11-07T14:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -582,6 +543,45 @@
       "venue": "Tangente — Édifice Wilder",
       "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
       "url": "https://tangentedanse.ca/evenement/leo-hit-coupal-hanna-sybille-muller/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9b3e9be97f3b97a431d56068a6bf@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-10-31T19:00:00-04:00",
+      "title": "Marcus Merasty + Noel Transcendance Vezina",
+      "start": "2026-10-31T19:00:00-04:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f2a51a043fcb7974773c40670c63@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-01T16:00:00-05:00",
+      "title": "Marcus Merasty + Noel Transcendance Vezina",
+      "start": "2026-11-01T16:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9291a04de2c93c28b231fc132782@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "marcus-merasty-noel-transcendance-vezina-2026-11-02T19:25:00-05:00",
+      "title": "Marcus Merasty + Noel Transcendance Vezina",
+      "start": "2026-11-02T19:25:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/marcus-merasty-noel-transcendance-vezina/",
       "description": "Contemporary dance performance.",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -909,7 +909,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "ac42f394da88c9cff2558647a3e3@montreal-performing-arts": {
       "source": "tangente",
@@ -922,7 +922,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "ebd230a08d5a4837591446ba54ac@montreal-performing-arts": {
       "source": "tangente",
@@ -935,7 +935,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "1d92a54dd67f43ff49c9012e9717@montreal-performing-arts": {
       "source": "tangente",
@@ -948,7 +948,7 @@
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "0673dc668336c3bae8149144c28b@montreal-performing-arts": {
       "source": "tangente",
@@ -961,7 +961,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "3b79c45f900cf1012e7107775158@montreal-performing-arts": {
       "source": "tangente",
@@ -974,7 +974,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "56a18096e5cbc2b33f1749676b06@montreal-performing-arts": {
       "source": "tangente",
@@ -987,7 +987,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "6ddb15565bf61e8bbd4b24ee2834@montreal-performing-arts": {
       "source": "tangente",
@@ -1000,7 +1000,7 @@
       "url": "https://tangentedanse.ca/evenement/pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 32
+      "missing_runs": 33
     }
   }
 }
