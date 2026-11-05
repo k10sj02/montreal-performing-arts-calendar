@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-04T15:01:58.272681-05:00",
+  "generated": "2026-11-05T02:24:50.611049-05:00",
   "count": 76,
   "cancelled": 0,
   "sources": {
     "la-chapelle": 40,
     "tangente": 15,
-    "agora": 17,
+    "agora": 16,
     "mai": 7
   },
   "errors": {}
