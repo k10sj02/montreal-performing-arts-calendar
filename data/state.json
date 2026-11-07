@@ -1,6 +1,84 @@
 {
-  "updated": "2026-11-07T01:36:28.057204-05:00",
+  "updated": "2026-11-07T08:33:53.513061-05:00",
   "events": {
+    "4879490998eecc276fef6301e979@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "kit-2026-12-14T19:30:00-05:00",
+      "title": "KiT!",
+      "start": "2026-12-14T19:30:00-05:00",
+      "end": "2026-12-14T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
+      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ab7f7d193d04da2b81d02e354d7a@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "kit-2026-12-15T19:30:00-05:00",
+      "title": "KiT!",
+      "start": "2026-12-15T19:30:00-05:00",
+      "end": "2026-12-15T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
+      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "d0d6f2ca22a42b84a0a22705aab6@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "kit-2026-12-17T19:30:00-05:00",
+      "title": "KiT!",
+      "start": "2026-12-17T19:30:00-05:00",
+      "end": "2026-12-17T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
+      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "822bca54b6adca244462cb57beb0@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "kit-2026-12-18T19:30:00-05:00",
+      "title": "KiT!",
+      "start": "2026-12-18T19:30:00-05:00",
+      "end": "2026-12-18T20:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
+      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "03562bf772d4b9a78d26848873bc@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-07T11:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T11:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4d296d5387ddcdd5e9d256739226@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "apres-le-deluge-2026-11-07T14:00:00-05:00",
+      "title": "Après le déluge",
+      "start": "2026-11-07T14:00:00-05:00",
+      "end": "2026-11-07T14:45:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
+      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "c7cc86b21b4986b21f1bdc7d0e29@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "perdon-2026-11-11T20:00:00-05:00",
@@ -89,97 +167,6 @@
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
       "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
       "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "03562bf772d4b9a78d26848873bc@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-07T11:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-07T11:00:00-05:00",
-      "end": "2026-11-07T11:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4d296d5387ddcdd5e9d256739226@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "apres-le-deluge-2026-11-07T14:00:00-05:00",
-      "title": "Après le déluge",
-      "start": "2026-11-07T14:00:00-05:00",
-      "end": "2026-11-07T14:45:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
-      "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "8bf0f8af17a07880ecca75647a01@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-18T19:30:00-05:00",
-      "title": "Zamân ou on a le même temps qu’on avait ",
-      "start": "2026-11-18T19:30:00-05:00",
-      "end": "2026-11-18T20:50:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
-      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9ce513c3144fb02869b871e8cfe7@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-19T19:30:00-05:00",
-      "title": "Zamân ou on a le même temps qu’on avait ",
-      "start": "2026-11-19T19:30:00-05:00",
-      "end": "2026-11-19T20:50:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
-      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "2d293b9c56f0ad6beaf7ca278f11@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-20T19:30:00-05:00",
-      "title": "Zamân ou on a le même temps qu’on avait ",
-      "start": "2026-11-20T19:30:00-05:00",
-      "end": "2026-11-20T20:50:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
-      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4d9e9ebf883a8d95f52591b9b305@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-21T16:00:00-05:00",
-      "title": "Zamân ou on a le même temps qu’on avait ",
-      "start": "2026-11-21T16:00:00-05:00",
-      "end": "2026-11-21T17:20:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
-      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7c3c88f2776910c01d0a6e32c337@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-21T19:30:00-05:00",
-      "title": "Zamân ou on a le même temps qu’on avait ",
-      "start": "2026-11-21T19:30:00-05:00",
-      "end": "2026-11-21T20:50:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
-      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -313,55 +300,68 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4879490998eecc276fef6301e979@montreal-performing-arts": {
+    "8bf0f8af17a07880ecca75647a01@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "kit-2026-12-14T19:30:00-05:00",
-      "title": "KiT!",
-      "start": "2026-12-14T19:30:00-05:00",
-      "end": "2026-12-14T20:45:00-05:00",
+      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-18T19:30:00-05:00",
+      "title": "Zamân ou on a le même temps qu’on avait ",
+      "start": "2026-11-18T19:30:00-05:00",
+      "end": "2026-11-18T20:50:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
-      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
+      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ab7f7d193d04da2b81d02e354d7a@montreal-performing-arts": {
+    "9ce513c3144fb02869b871e8cfe7@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "kit-2026-12-15T19:30:00-05:00",
-      "title": "KiT!",
-      "start": "2026-12-15T19:30:00-05:00",
-      "end": "2026-12-15T20:45:00-05:00",
+      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-19T19:30:00-05:00",
+      "title": "Zamân ou on a le même temps qu’on avait ",
+      "start": "2026-11-19T19:30:00-05:00",
+      "end": "2026-11-19T20:50:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
-      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
+      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "d0d6f2ca22a42b84a0a22705aab6@montreal-performing-arts": {
+    "2d293b9c56f0ad6beaf7ca278f11@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "kit-2026-12-17T19:30:00-05:00",
-      "title": "KiT!",
-      "start": "2026-12-17T19:30:00-05:00",
-      "end": "2026-12-17T20:45:00-05:00",
+      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-20T19:30:00-05:00",
+      "title": "Zamân ou on a le même temps qu’on avait ",
+      "start": "2026-11-20T19:30:00-05:00",
+      "end": "2026-11-20T20:50:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
-      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
+      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "822bca54b6adca244462cb57beb0@montreal-performing-arts": {
+    "4d9e9ebf883a8d95f52591b9b305@montreal-performing-arts": {
       "source": "la-chapelle",
-      "source_id": "kit-2026-12-18T19:30:00-05:00",
-      "title": "KiT!",
-      "start": "2026-12-18T19:30:00-05:00",
-      "end": "2026-12-18T20:45:00-05:00",
+      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-21T16:00:00-05:00",
+      "title": "Zamân ou on a le même temps qu’on avait ",
+      "start": "2026-11-21T16:00:00-05:00",
+      "end": "2026-11-21T17:20:00-05:00",
       "venue": "La Chapelle Scènes Contemporaines",
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/lilia-mestre",
-      "description": "Lilia Mestre - KiT! à La Chapelle",
+      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
+      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7c3c88f2776910c01d0a6e32c337@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "zamn-ou-on-a-le-mme-temps-quon-avait--2026-11-21T19:30:00-05:00",
+      "title": "Zamân ou on a le même temps qu’on avait ",
+      "start": "2026-11-21T19:30:00-05:00",
+      "end": "2026-11-21T20:50:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/mani-soleymanlou-ou-orange-noyee",
+      "description": "Mani Soleymanlou, Valaire - Zamân ou on a le même temps qu’on avait  à La Chapelle",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -908,8 +908,8 @@
       "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
       "url": "https://lachapelle.tuxedobillet.com/main/sebastien-provencher-julia-lapperriere",
       "description": "Julia B. Laperrière, Sébastien Provencher - Après le déluge à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ea5e592849dd3659b390806cc86a@montreal-performing-arts": {
       "source": "tangente",
@@ -921,8 +921,8 @@
       "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
       "url": "https://tangentedanse.ca/evenement/leo-hit-coupal-hanna-sybille-muller/",
       "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b6e607996a490df3ef70d0891fc3@montreal-performing-arts": {
       "source": "agora",
@@ -934,8 +934,8 @@
       "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
       "url": "https://agoradanse.com/evenement/coil/",
       "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
