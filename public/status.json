@@ -1,12 +1,13 @@
 {
-  "generated": "2026-11-20T15:43:56.847555-05:00",
+  "generated": "2026-11-21T02:42:50.666004-05:00",
   "count": 56,
-  "cancelled": 2,
+  "cancelled": 1,
   "sources": {
-    "la-chapelle": 31,
+    "la-chapelle": 30,
     "tangente": 12,
-    "agora": 13,
     "mai": 3
   },
-  "errors": {}
+  "errors": {
+    "agora": "Server disconnected without sending a response."
+  }
 }
