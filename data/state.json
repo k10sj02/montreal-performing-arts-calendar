@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:22:43.137302-05:00",
+  "updated": "2026-11-24T05:26:16.545902-05:00",
   "events": {
     "96f057951d7bd99610167f6da87c@montreal-performing-arts": {
       "source": "la-chapelle",
@@ -183,84 +183,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ceb72139ee3ba29abd9c5b29e7ff@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-11T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-11T19:30:00-05:00",
-      "end": "2027-01-11T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e83edcc2a0fcd1319be8784cc4d2@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-12T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-12T19:30:00-05:00",
-      "end": "2027-01-12T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "60758a3e718d2562a0dd9ee4617d@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-14T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-14T19:30:00-05:00",
-      "end": "2027-01-14T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3e604f4cce6a7d1bff0233bb10fa@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "about-cruising-lignes-de-dsir--2027-01-15T19:30:00-05:00",
-      "title": "About cruising : Lignes de désir ",
-      "start": "2027-01-15T19:30:00-05:00",
-      "end": "2027-01-15T20:35:00-05:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
-      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6402f5061e07f68082729abf9db6@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "slab-2027-03-22T20:30:00-04:00",
-      "title": "SLAB",
-      "start": "2027-03-22T20:30:00-04:00",
-      "end": "2027-03-22T21:20:00-04:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thea-patterson",
-      "description": "Thea Patterson - SLAB à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "372b5ca2dd24dda1a8354184991f@montreal-performing-arts": {
-      "source": "la-chapelle",
-      "source_id": "slab-2027-03-23T20:30:00-04:00",
-      "title": "SLAB",
-      "start": "2027-03-23T20:30:00-04:00",
-      "end": "2027-03-23T21:20:00-04:00",
-      "venue": "La Chapelle Scènes Contemporaines",
-      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
-      "url": "https://lachapelle.tuxedobillet.com/main/thea-patterson",
-      "description": "Thea Patterson - SLAB à La Chapelle",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3a9d59ececac019edddc34d82395@montreal-performing-arts": {
       "source": "la-chapelle",
       "source_id": "akuteu-2027-01-27T19:30:00-05:00",
@@ -391,6 +313,110 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ceb72139ee3ba29abd9c5b29e7ff@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-11T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-11T19:30:00-05:00",
+      "end": "2027-01-11T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e83edcc2a0fcd1319be8784cc4d2@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-12T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-12T19:30:00-05:00",
+      "end": "2027-01-12T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "60758a3e718d2562a0dd9ee4617d@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-14T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-14T19:30:00-05:00",
+      "end": "2027-01-14T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3e604f4cce6a7d1bff0233bb10fa@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "about-cruising-lignes-de-dsir--2027-01-15T19:30:00-05:00",
+      "title": "About cruising : Lignes de désir ",
+      "start": "2027-01-15T19:30:00-05:00",
+      "end": "2027-01-15T20:35:00-05:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thomas-lapointe",
+      "description": "Thomas Lapointe  - About cruising : Lignes de désir  à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "6402f5061e07f68082729abf9db6@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "slab-2027-03-22T20:30:00-04:00",
+      "title": "SLAB",
+      "start": "2027-03-22T20:30:00-04:00",
+      "end": "2027-03-22T21:20:00-04:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thea-patterson",
+      "description": "Thea Patterson - SLAB à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "372b5ca2dd24dda1a8354184991f@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "slab-2027-03-23T20:30:00-04:00",
+      "title": "SLAB",
+      "start": "2027-03-23T20:30:00-04:00",
+      "end": "2027-03-23T21:20:00-04:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thea-patterson",
+      "description": "Thea Patterson - SLAB à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a2179088e50480bbc3bff9268065@montreal-performing-arts": {
+      "source": "la-chapelle",
+      "source_id": "slab-2027-03-24T20:30:00-04:00",
+      "title": "SLAB",
+      "start": "2027-03-24T20:30:00-04:00",
+      "end": "2027-03-24T21:20:00-04:00",
+      "venue": "La Chapelle Scènes Contemporaines",
+      "address": "3700 rue Saint-Dominique, Montréal, QC H2X 2X8",
+      "url": "https://lachapelle.tuxedobillet.com/main/thea-patterson",
+      "description": "Thea Patterson - SLAB à La Chapelle",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e81f0b3539a5ce625c34082892f6@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "maude-lecours-gabrielle-marquis-2026-11-24T17:00:00-05:00",
+      "title": "Maude Lecours & Gabrielle Marquis",
+      "start": "2026-11-24T17:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/maude-lecours-gabrielle-marquis/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "0673dc668336c3bae8149144c28b@montreal-performing-arts": {
       "source": "tangente",
       "source_id": "pierre-marc-ouellette-jacques-poulin-denis-medhi-walerski-2026-12-16T19:25:00-05:00",
@@ -443,6 +469,45 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ce68e085fe6a3bc879f744f39fa4@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-28T19:29:00-05:00",
+      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
+      "start": "2026-11-28T19:29:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c058e348b3c07034a27431840313@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-30T19:00:00-05:00",
+      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
+      "start": "2026-11-30T19:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "cb80849e03f311f2b074484d2484@montreal-performing-arts": {
+      "source": "tangente",
+      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-12-02T19:00:00-05:00",
+      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": null,
+      "venue": "Tangente — Édifice Wilder",
+      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
+      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
+      "description": "Contemporary dance performance.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "14dadbe5e49b0394d4cfcd48039d@montreal-performing-arts": {
       "source": "tangente",
       "source_id": "alexandre-morin-jessica-muszynski-2026-12-09T19:25:00-05:00",
@@ -491,58 +556,6 @@
       "venue": "Tangente — Édifice Wilder",
       "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
       "url": "https://tangentedanse.ca/evenement/alexandre-morin-jessica-muszynski/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e81f0b3539a5ce625c34082892f6@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "maude-lecours-gabrielle-marquis-2026-11-24T17:00:00-05:00",
-      "title": "Maude Lecours & Gabrielle Marquis",
-      "start": "2026-11-24T17:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/maude-lecours-gabrielle-marquis/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ce68e085fe6a3bc879f744f39fa4@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-28T19:29:00-05:00",
-      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
-      "start": "2026-11-28T19:29:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c058e348b3c07034a27431840313@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-11-30T19:00:00-05:00",
-      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
-      "start": "2026-11-30T19:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
-      "description": "Contemporary dance performance.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "cb80849e03f311f2b074484d2484@montreal-performing-arts": {
-      "source": "tangente",
-      "source_id": "piece-of-mind-collective-maude-lecours-gabrielle-marquis-2026-12-02T19:00:00-05:00",
-      "title": "Piece of Mind Collective + Maude Lecours & Gabrielle Marquis",
-      "start": "2026-12-02T19:00:00-05:00",
-      "end": null,
-      "venue": "Tangente — Édifice Wilder",
-      "address": "1435 rue De Bleury, Montréal, QC H3A 2H7",
-      "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
       "description": "Contemporary dance performance.",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -727,7 +740,7 @@
       "url": "https://tangentedanse.ca/evenement/piece-of-mind-collective-maude-lecours-gabrielle-marquis/",
       "description": "Contemporary dance performance.",
       "status": "CANCELLED",
-      "missing_runs": 23
+      "missing_runs": 24
     }
   }
 }
